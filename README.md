@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hulluP
-- 👀 I’m interested in .Net
-- 🌱 I’m currently learning Xamarin
-- 💞️ I’m looking to collaborate on Xamrin
+- 👀 I’m interested in mobile dev
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Flutter
 
 
 <!---
